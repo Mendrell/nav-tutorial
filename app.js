@@ -19,6 +19,6 @@ const navSlide = () => {
     });
 
 
-}
+}//change something
 
 navSlide(); //dont forget to invoke the function
